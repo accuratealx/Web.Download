@@ -85,6 +85,7 @@
 				echo 	"<div class='FileName'>{$value}</div>";
 				echo 	"<div class='FileSize'>{$size}</div>";
 				echo "</a>";
+				echo PHP_EOL;
 			}
 		?>
 
